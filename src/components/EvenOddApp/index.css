@@ -1,0 +1,43 @@
+/* Write your CSS here */
+
+.bg-container {
+  background-color: #ffffff;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(#ff6e7f, #bfe9ff);
+  border-radius: 5px;
+}
+.count-heading {
+  font-family: 'Roboto';
+  font-size: 30px;
+  color: #0f172a;
+  margin: 10px;
+}
+.description {
+  font-family: 'Roboto';
+  font-size: 25px;
+  color: #334155;
+}
+.increase-btn {
+  font-family: 'Roboto';
+  font-size: 13px;
+  color: #1e293b;
+  border-radius: 5px;
+  border-width: 0px;
+  height: 38px;
+  width: 138px;
+  background-color: #ffffff;
+}
+.paragraph {
+  font-family: 'Roboto';
+  font-size: 13px;
+  color: #1e293b;
+}
